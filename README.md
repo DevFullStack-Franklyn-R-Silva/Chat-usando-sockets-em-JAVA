@@ -40,7 +40,7 @@ A aplicação fica em loop até o usuário digitar "sair" para encerrar.
 O servidor deve ser iniciado a partir da classe link:src/main/java/com/hadesfranklyn/chat/ChatServer.java[Servidor].
 Isto pode ser feito no NetBeans, abrindo tal classe e pressionando `SHIFT+F6`.
 
-Depois de iniciado o servidor, pode-se executar várias instâncias do cliente para representar diversos usuários conectados ao chat. No NetBeans, basta abrir a classe link:src/main/java/com/manoelcampos/chat/ChatClient.java[Cliente] e pressionar `SHIFT+F6` para cada cliente que desejar executar.
+Depois de iniciado o servidor, pode-se executar várias instâncias do cliente para representar diversos usuários conectados ao chat. No NetBeans, basta abrir a classe link:src/main/java/com/hadesfranklyn/chat/ChatClient.java[Cliente] e pressionar `SHIFT+F6` para cada cliente que desejar executar.
 
 ## === AVISO
 
